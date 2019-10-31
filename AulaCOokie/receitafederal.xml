@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Receita>
+<pessoa id="pessoa1">
+<cpf> 916.454.785-12</cpf>
+<rg> 485.785.141.77</rg>
+<datanasc> 01.07.1987 </datanasc>
+<ende>
+<logadouro> Avenida: Tulio Schroeider </logadouro>
+<num>  5678 </num>
+<bairro> Vila Astronalta </bairro>
+<cep> 0804785-852 </cep>
+<cidade> São Paulo </cidade>
+<estado> São Paulo </estado>
+</ende>
+<contato>
+<telefone> +55 11 2498-7897 </telefone>
+<celular> +55 11 94859- 1595 </celular>
+<email> contato1@gmail.com </email>
+</contato>
+<renda> 98000.00R$ </renda>
+<foto src="foto1.png"> </foto> 
+<conta>
+<banco> Bradesco </banco>
+<agencia> 855 </agencia>
+<numcont> 854985-8 </numcont>
+</conta>
+</pessoa>
+<pessoa id="pessoa2">
+<cpf> 888.555.777-11</cpf>
+<rg> 485.785-88</rg>
+<datanasc> 01.012.1991 </datanasc>
+<ende>
+<logadouro> Avenida: Antartica </logadouro>
+<num>   n58 </num>
+<bairro> Jardim Estatus </bairro>
+<cep> 01518785-852 </cep>
+<cidade> São Paulo </cidade>
+<estado> São Paulo </estado>
+</ende>
+<contato>
+<telefone> +55 11 1515-8545 </telefone>
+<celular> +55 11 95651- 2021 </celular>
+<email> contato2@gmail.com </email>
+</contato>
+<renda> 8000.00R$ </renda>
+<foto src="foto2.png"> </foto> 
+<conta>
+<banco> Banco do Brasil </banco>
+<agencia> 890 </agencia>
+<numcont> 81454-8 </numcont>
+</conta>
+</pessoa>
+<pessoa id="pessoa3">
+<cpf> 001.000.000-00</cpf>
+<rg> 585.451.474.99</rg>
+<datanasc> 23.09.2001 </datanasc>
+<ende>
+<logadouro> Avenida: PELVRIUS </logadouro>
+<num>  1045 </num>
+<bairro> Jardim Paulista </bairro>
+<cep> 08099-720 </cep>
+<cidade> São Paulo </cidade>
+<estado> São Paulo </estado>
+</ende>
+<contato>
+<telefone> +55 11 2589-7957 </telefone>
+<celular> +55 11 98759- 5555 </celular>
+<email> contato3@gmail.com </email>
+</contato>
+<renda> 5000.00R$ </renda>
+<foto src="foto3.png"> </foto> 
+<conta>
+<banco> Itau </banco>
+<agencia> 741 </agencia>
+<numcont> 74156-8 </numcont>
+</conta>
+</pessoa>
+<pessoa id="pessoa4">
+<cpf> 111.111.858-11</cpf>
+<rg> 111.111.111.11</rg>
+<datanasc> 11.11.1997 </datanasc>
+<ende>
+<logadouro> Rua: Rio Makron </logadouro>
+<num>  9998 </num>
+<bairro>    Rua Djent </bairro>
+<cep> 888888-888 </cep>
+<cidade> São Paulo </cidade>
+<estado> São Paulo </estado>
+</ende>
+<contato>
+<telefone> +55 11 4444-4444 </telefone>
+<celular> +55 11 94444- 4444 </celular>
+<email> contato4@gmail.com </email>
+</contato>
+<renda> 44000.00R$ </renda>
+<foto src="foto4.png"> </foto> 
+<conta>
+<banco> Nu-Bank </banco>
+<agencia> 1 </agencia>
+<numcont> 15151-21 </numcont>
+</conta>
+</pessoa>
+<pessoa id="pessoa5">
+<cpf> 222.222.222-22</cpf>
+<rg> 555.555.555.55</rg>
+<datanasc> 01.07.1998 </datanasc>
+<ende>
+<logadouro> Avenida: Paulo Romano </logadouro>
+<num>  9999 </num>
+<bairro> Jardim Industria </bairro>
+<cep> 11111-111 </cep>
+<cidade> São Paulo </cidade>
+<estado> São Paulo </estado>
+</ende>
+<contato>
+<telefone> +55 11 2777-7777 </telefone>
+<celular> +55 11 97777- 7777 </celular>
+<email> contato5@gmail.com </email>
+</contato>
+<renda> 7000.00R$ </renda>
+<foto src="foto5.png"> </foto> 
+<conta>
+<banco> Real </banco>
+<agencia> 02 </agencia>
+<numcont> 151481-8 </numcont>
+</conta>
+</pessoa>
+</Receita>
+
+
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<universidade>
+    <aluno id="c1212">
+    <nome>Roberwando</nome>
+
+    <foto src="foto1.png"/>
+
+    <disciplinas>
+
+
+        <disci id="d1">
+        <nome>WEB</nome>
+        <nota>0</nota>
+        </disci>
+        <disci id ="d2">
+        <nome>TDA</nome>
+        <nota>10</nota>
+        </disci>
+
+    </disciplinas>    
+
+    </aluno>
+  <aluno id="A554">
+    <nome>Tavares</nome>
+
+    <foto src="foto2.png"/>
+
+    <disciplinas>
+
+
+        <disci id="d1">
+        <nome>PROGRAM</nome>
+        <nota>5</nota>
+        </disci>
+        <disci id ="d2">
+        <nome>TDA</nome>
+        <nota>10</nota>
+        </disci>
+
+    </disciplinas>    
+
+    </aluno>
+</universidade>

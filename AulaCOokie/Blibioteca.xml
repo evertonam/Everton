@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BiBlioteca>
+<Acervo id="acervo1">
+<titulo> Shaaman </titulo>
+<autor> André Matos </autor>
+<edicao> Normal </edicao>
+<anopubl> 2001 </anopubl>
+<editora> Alivros </editora>
+<localp> São Paulo </localp>
+<classific> 15+ </classific>
+<codgio> 181 </codgio>
+<assunto> Mitologia </assunto>
+</Acervo>
+<Acervo id="acervo2">
+<titulo> Angra </titulo>
+<autor> Edu Falaschi </autor>
+<edicao> Especial </edicao>
+<anopubl> 2001 </anopubl>
+<editora> Cultura </editora>
+<localp> São Paulo </localp>
+<classific> 14+ </classific>
+<codgio> 182 </codgio>
+<assunto> Aventura </assunto>
+</Acervo>
+<Acervo id="acervo3">
+<titulo> Price of thorns </titulo>
+<autor> Mark Laurance </autor>
+<edicao> Luxo </edicao>
+<anopubl> 2016 </anopubl>
+<editora> Darkside </editora>
+<localp> Inglaterra </localp>
+<classific> 18+ </classific>
+<codgio> 182 </codgio>
+<assunto> Dark Fantasy </assunto>
+</Acervo>
+<Acervo id="acervo4">
+<titulo> Emperor of Thorns </titulo>
+<autor> Mark Laurance </autor>
+<edicao> Luxo </edicao>
+<anopubl> 2017 </anopubl>
+<editora> Darkside </editora>
+<localp> Polonia </localp>
+<classific> 18+ </classific>
+<codgio> 185 </codgio>
+<assunto> Dark Fantasy </assunto>
+</Acervo>
+<Acervo id="acervo5">
+<titulo> King of Thorns </titulo>
+<autor> Mark Laurance </autor>
+<edicao> Luxo </edicao>
+<anopubl> 2018 </anopubl>
+<editora> Darkside </editora>
+<localp> Italia </localp>
+<classific> 18+ </classific>
+<codgio> 186 </codgio>
+<assunto> Dark Fantasy </assunto>
+</Acervo>
+</BiBlioteca>
